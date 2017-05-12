@@ -1,0 +1,10 @@
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\bin\Debug\CloverTools.exe.config
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\bin\Debug\Test.accdb
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\bin\Debug\CloverTools.exe
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\bin\Debug\CloverTools.pdb
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.csprojResolveAssemblyReference.cache
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.Form1.resources
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.Properties.Resources.resources
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.csproj.GenerateResource.Cache
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.exe
+c:\users\nemanja.isajlovic\documents\visual studio 2015\Projects\CloverTools\CloverTools\obj\Debug\CloverTools.pdb
